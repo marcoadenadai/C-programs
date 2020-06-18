@@ -1,0 +1,2 @@
+
+KERNEL=="crypto", SUBSYSTEM=="cryto", MODE="0666"
